@@ -37,7 +37,8 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #1b8d4a;
+  border-radius: 15px 0 0 15px;
   color: #000000;
   border-top: 1px dashed #000000;
 }
