@@ -26,3 +26,12 @@ function timeCheck() {
 };
 
 // Save Events to localstorage
+
+saveBtn.on("click", function() {
+    let event = $(this).siblings(".event").val();
+    let time = $(this).siblings(".hour").text();
+
+    storage.setItem(time, event);
+});
+
+timeCheck();
