@@ -3,7 +3,7 @@
 ![Picture of application](Capture.JPG)
             
 ## Link:
-https://github.com/Tschram93/workday-planner
+https://tschram93.github.io/workday-planner/
 ## Description: 
 A daily work scheduler allowing the user to input their event for the specific time frame and then save the event.
 
