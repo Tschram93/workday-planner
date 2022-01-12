@@ -7,9 +7,11 @@ body {
 textarea {
   background: transparent;
   border: none;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-top: 1px solid black;
   resize: none;
   color: #000000;
-  border-left: 1px solid black;
   padding: 10px;
 }
 
@@ -37,7 +39,7 @@ textarea {
 }
 
 .hour {
-  background-color: #1b8d4a;
+  background-color: #38a764;
   border-radius: 15px 0 0 15px;
   color: #000000;
   border-top: 1px dashed #000000;
